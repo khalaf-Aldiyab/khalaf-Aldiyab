@@ -4,14 +4,14 @@
 </h1>
 
 <p>
-Welcome to my GitHub profile 👋 <br/>
-I'm an <b>Information Engineering Student</b> from   Syria,<br/>
-currently based in   Europe.
+Welcome to my GitHub profile  <br/>
+I'm an <b>Information Engineering Student</b> from Syria,<br/>
+currently based in Europe 
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I started my journey as a **Frontend Developer**, building user interfaces and web experiences.
 
@@ -26,16 +26,15 @@ Now I'm transitioning into **Data Engineering**, focusing on:
 
 ---
 
-## 🔥 Why Data Engineering?
+##  Why Data Engineering?
 
-Because I believe:
-- Data powers every modern application
-- Clean systems matter more than flashy UI
-- Real engineering impact happens in the backend
+- Data is the core of every modern system  
+- Clean architecture matters more than UI  
+- Backend + Data = real engineering impact  
 
 ---
 
-## 🛠️ Technologies I Work With
+## 🛠️ Tech Stack
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -48,19 +47,49 @@ Because I believe:
 
 ---
 
-## 📊 GitHub Stats
+##  Featured Projects (Portfolio)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=khalaf-Aldiyab&show_icons=true" />
+###  Data Engineering Projects
+
+<p align="center">
+
+<a href="https://github.com/khalaf-Aldiyab/project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalaf-Aldiyab&repo=project-1" />
+</a>
+
+<a href="https://github.com/khalaf-Aldiyab/project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalaf-Aldiyab&repo=project-2" />
+</a>
+
 </p>
 
-<p>
+<p align="center">
+
+<a href="https://github.com/khalaf-Aldiyab/project-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalaf-Aldiyab&repo=project-3" />
+</a>
+
+<a href="https://github.com/khalaf-Aldiyab/project-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalaf-Aldiyab&repo=project-4" />
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khalaf-Aldiyab&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalaf-Aldiyab" />
 </p>
 
 ---
 
-## 📈 Current Focus
+##  Current Focus
 
 - Python for Data Engineering  
 - SQL & Databases  
@@ -70,15 +99,17 @@ Because I believe:
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/khalaf-al-diab">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
-<p>📧 Email: khalf.aldiyab@gmail.com</p>
+<p align="center">
+ Email: <b>khalf.aldiyab@gmail.com</b>
+</p>
 
 ---
 
