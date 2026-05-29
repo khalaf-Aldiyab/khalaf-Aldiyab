@@ -5,18 +5,18 @@
 
 <p>
 Welcome to my GitHub profile 👋 <br/>
-I'm an <b>Information Engineering Student</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Syria,<br/>
-currently based in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Europe.
+I'm an <b>Information Engineering Student</b> from  Syria,<br/>
+currently based in Europe.
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I started my journey as a **Frontend Developer**, building user interfaces and web experiences.
 
 But I discovered my real passion lies deeper:
-👉 **Data, systems, and backend architecture**
+ **Data, systems, and backend architecture**
 
 Now I'm transitioning into **Data Engineering**, focusing on:
 - Data pipelines (ETL)
@@ -26,7 +26,7 @@ Now I'm transitioning into **Data Engineering**, focusing on:
 
 ---
 
-## 🔥 Why Data Engineering?
+##  Why Data Engineering?
 
 Because I believe:
 - Data powers every modern application
@@ -35,7 +35,7 @@ Because I believe:
 
 ---
 
-## 🛠️ Technologies I Work With
+##  Technologies I Work With
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -48,7 +48,7 @@ Because I believe:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=khalaf-Aldiyab&show_icons=true" />
@@ -60,7 +60,7 @@ Because I believe:
 
 ---
 
-## 📈 Current Focus
+##  Current Focus
 
 - Python for Data Engineering  
 - SQL & Databases  
@@ -70,7 +70,7 @@ Because I believe:
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/khalaf-al-diab">
@@ -82,7 +82,7 @@ Because I believe:
 
 ---
 
-⭐ *From Frontend interfaces → to Data Engineering systems*<h1>
+ *From Frontend interfaces → to Data Engineering systems*<h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
   Hey! I'm Khalaf
 </h1>
@@ -161,7 +161,7 @@ Now I'm transitioning into **Data Engineering**, focusing on:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khalaf-Aldiyab&show_icons=true&theme=default" />
@@ -197,4 +197,4 @@ Now I'm transitioning into **Data Engineering**, focusing on:
 
 ---
 
-⭐ *From Frontend interfaces → to Data Engineering systems*
+ *From Frontend interfaces → to Data Engineering systems*
